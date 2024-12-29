@@ -751,6 +751,9 @@
     <property name="title">
      <string>Basic.MainMenu.Profile</string>
     </property>
+    <property name="enabled">
+      <bool>false</bool>
+    </property>
     <addaction name="actionNewProfile"/>
     <addaction name="actionDupProfile"/>
     <addaction name="actionRenameProfile"/>
